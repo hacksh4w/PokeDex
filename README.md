@@ -15,7 +15,8 @@ Repo for DSC Project Building 2-22
 
 
 ## What is PokeDex
-WindPower is a a WebGL based project that renders a 3D animated windmill which serves as a fun interactive landing page and also helps to promote the usage clean energy power sources such as Wind Energy Plants. The WindMIll has hover effect enabled. 
+
+  
 
 # Team Members
 
@@ -32,7 +33,7 @@ Hosted Link : https://
 Steps To Run the Project:
 
 1.Downloading the Modules.
-- vite; react; react-dom; three.js; react-three; react-three-fiber; react-three/drei
+- vite; react; react-dom; 
 1. `` cd  pokedex  ``
 2. ``npm install``
 3. `` npm run dev``
