@@ -1,5 +1,5 @@
 # PokeDex
-# **<div align="center">PokeDex*  
+# **<div align="center">PokeDex</div>
 <desc>
 
 Repo for DSC Project Building 2-22
@@ -20,7 +20,7 @@ WindPower is a a WebGL based project that renders a 3D animated windmill which s
 # Team Members
 
 1. [Mrinalini Nair Ani](https://github.com/hacksh4w/)
-1. [Vishal Unni] (httpa://github.com/VISHAL-UNNI/)
+1. [Vishal Unni] (https://github.com/VISHALUNNI)
 
 
 
