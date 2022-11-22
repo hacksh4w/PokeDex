@@ -1,5 +1,4 @@
-# PokeDex
-# **<div align="center">PokeDex</div>
+# **<div align="center">PokeDex</div>**
 <desc>
 
 Repo for DSC Project Building 2-22
