@@ -26,7 +26,7 @@ Repo for DSC Project Building
 
 ## 🔧 Project Demo:
 ### Live Demo
-Hosted Link : https://
+Hosted Link :[Link](https://poke-dexapp.netlify.app/)
 
 # Installation
 Steps To Run the Project:
