@@ -17,12 +17,17 @@ Repo for DSC Project Building
 
   
 
-# Team Members
+## Team Members
 
 1. [Mrinalini Nair Ani](https://github.com/hacksh4w/)
 1. [Vishal Unni](https://github.com/VISHALUNNI)
 
-
+ 
+## Key Features
+- Pokemon tiles are coloured based on Type
+- Entire Pokedex is accessible
+- Filters to be made more extensive
+- Search and View Pages to be added
 
 ## 🔧 Project Demo:
 ### Live Demo
